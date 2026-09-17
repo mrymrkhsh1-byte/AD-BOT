@@ -1,3 +1,3 @@
 wheel
-highrise-bot-sdk
+highrise-bot-sdk==25.1.0
 aiohttp
